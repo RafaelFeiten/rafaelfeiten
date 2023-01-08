@@ -36,4 +36,6 @@ In my leisure time I like to watch movies and series, read books that improve me
 - RabbitMQ
 - Redis
 - Java
+- DynamoDB
+- Rust
 
